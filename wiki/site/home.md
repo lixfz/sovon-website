@@ -1,4 +1,4 @@
-<img src="home_media/01.jpg" alt="img" style="width:80%;" />
+![img](home_media/01.jpg)
 
 ---
 
