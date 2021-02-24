@@ -1,4 +1,5 @@
-![img](home_media/01.jpg)
+
+<img   class="img-fluid rounded_circle" alt="home" src="media/home/01.jpg" />
 
 ---
 
